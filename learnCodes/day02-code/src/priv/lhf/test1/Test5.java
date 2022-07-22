@@ -22,7 +22,7 @@
 //        123853.07
 //        618.16
 //        146622115.56
-package priv.lhf.test;
+package priv.lhf.test1;
 
 import java.util.Scanner;
 

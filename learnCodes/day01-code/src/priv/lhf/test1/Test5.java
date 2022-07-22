@@ -1,4 +1,4 @@
-package priv.lhf.test;
+package priv.lhf.test1;
 //求一个三位正整数各位数字之和
 
 import java.util.Scanner;

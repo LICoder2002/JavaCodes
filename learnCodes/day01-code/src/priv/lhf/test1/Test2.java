@@ -1,4 +1,4 @@
-package priv.lhf.test;
+package priv.lhf.test1;
 //求华氏温度100对应的摄氏温度
 //计算公式：celsius = 5 * (100 - 32) / 9
 public class Test2 {

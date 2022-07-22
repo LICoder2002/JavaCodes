@@ -1,4 +1,4 @@
-package priv.lhf.test;
+package priv.lhf.test1;
 
 import java.util.Scanner;
 

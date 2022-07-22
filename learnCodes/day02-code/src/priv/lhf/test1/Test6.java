@@ -1,4 +1,4 @@
-package priv.lhf.test;
+package priv.lhf.test1;
 //        假设在平面内，有一个三角形，边长分别为a、b、c，三角形的面积S可由以下公式求得：
 //        而公式里的p为半周长（周长的一半）：
 //
@@ -21,8 +21,6 @@ package priv.lhf.test;
 //        Input Error!
 
 import java.util.Scanner;
-
-import static java.lang.Math.sqrt;
 
 public class Test6 {
     public static void main(String[] args)

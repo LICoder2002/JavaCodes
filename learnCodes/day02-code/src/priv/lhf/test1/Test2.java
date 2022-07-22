@@ -4,7 +4,7 @@
 //        输出格式:
 //        输出男生女生所占的比例（保留小数点后两位）。
 
-package priv.lhf.test;
+package priv.lhf.test1;
 
 import java.util.Scanner;
 
