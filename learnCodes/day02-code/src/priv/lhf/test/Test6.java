@@ -39,7 +39,7 @@ public class Test6 {
                 double p = (a + b + c)/2;
                 double s = Math.sqrt(p*(p-a)*(p-b)*(p-c));
 
-                System.out.println(String.format("%.2f",s));
+                System.out.printf("%.2f%n",s);
             }
         }
 
