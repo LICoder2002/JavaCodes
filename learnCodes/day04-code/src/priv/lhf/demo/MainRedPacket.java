@@ -18,13 +18,13 @@ public class MainRedPacket {
         four.show(); // 0
         System.out.println("====================");
 
-        ArrayList<Integer> redList = manager.send(10,4);
+        ArrayList<Integer> redList = manager.send(20,4);
         one.receive(redList);
         two.receive(redList);
         three.receive(redList);
         four.receive(redList);
 
-        manager.show(); // 100 - 90
+        manager.show(); // 100 - 20 = 80
         one.show();
         two.show();
         three.show();

@@ -1,5 +1,6 @@
 package priv.lhf.demo;
 
+// 用户类
 public class User {
 
     private String name;

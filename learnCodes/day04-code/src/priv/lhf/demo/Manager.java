@@ -2,7 +2,7 @@ package priv.lhf.demo;
 
 import java.util.ArrayList;
 
-//群主类
+// 群主类
 public class Manager extends User{
     public Manager(){
     }

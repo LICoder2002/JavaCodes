@@ -3,7 +3,7 @@ package priv.lhf.demo;
 import java.util.ArrayList;
 import java.util.Random;
 
-//普通成员
+// 普通成员
 public class Member extends User {
     public Member() {
     }
