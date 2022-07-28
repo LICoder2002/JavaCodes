@@ -1,4 +1,4 @@
-package priv.lhf.demo3;
+package priv.lhf.demo03;
 
 public class Fu {
     int num = 10;

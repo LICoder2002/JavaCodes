@@ -1,4 +1,4 @@
-package priv.lhf.demo3;
+package priv.lhf.demo03;
 
 public class Demo01MultiMethod {
     public static void main(String[] args) {
