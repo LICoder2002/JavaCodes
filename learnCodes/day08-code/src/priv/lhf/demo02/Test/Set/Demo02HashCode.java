@@ -1,4 +1,4 @@
-package priv.lhf.demo02.Set;
+package priv.lhf.demo02.Test.Set;
 /*
     哈希值：是一个十进制的整数，由系统随机给出（就是对象的地址值，是一个逻辑地址，不是数据世纪存储的物理地址)
     在Object类中：

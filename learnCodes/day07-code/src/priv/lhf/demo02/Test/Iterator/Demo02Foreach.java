@@ -1,4 +1,4 @@
-package priv.lhf.demo02.Iterator;
+package priv.lhf.demo02.Test.Iterator;
 /*
     增强for循环：底层也是使用迭代器，只是简化了迭代器的书写
     是JDK1.5之后的特性

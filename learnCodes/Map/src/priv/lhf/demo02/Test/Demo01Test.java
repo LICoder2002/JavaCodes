@@ -1,4 +1,4 @@
-package priv.lhf.demo02;
+package priv.lhf.demo02.Test;
 
 import java.util.HashMap;
 import java.util.Scanner;

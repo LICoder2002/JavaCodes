@@ -1,4 +1,4 @@
-package priv.lhf.demo02;
+package priv.lhf.demo02.Test;
 
 public class Fu {
     public void method()

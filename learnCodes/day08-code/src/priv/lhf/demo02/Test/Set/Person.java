@@ -1,4 +1,4 @@
-package priv.lhf.demo02.Set;
+package priv.lhf.demo02.Test.Set;
 
 import java.util.Objects;
 

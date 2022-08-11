@@ -1,4 +1,4 @@
-package priv.lhf.demo02;
+package priv.lhf.demo02.Test;
 
 public class Zi extends Fu{
     public void method()
