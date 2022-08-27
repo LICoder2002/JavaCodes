@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/JavaWeb.iml" filepath="$PROJECT_DIR$/JavaWeb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_DataSource_jdbcTemplate/_DataSource_jdbcTemplate.iml" filepath="$PROJECT_DIR$/_DataSource_jdbcTemplate/_DataSource_jdbcTemplate.iml" />
       <module fileurl="file://$PROJECT_DIR$/_JDBC/_JDBC.iml" filepath="$PROJECT_DIR$/_JDBC/_JDBC.iml" />
       <module fileurl="file://$PROJECT_DIR$/_StrengthBasic/_StrengthBasic.iml" filepath="$PROJECT_DIR$/_StrengthBasic/_StrengthBasic.iml" />
     </modules>
