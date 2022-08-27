@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/_DataSource_jdbcTemplate/_DataSource_jdbcTemplate.iml" filepath="$PROJECT_DIR$/_DataSource_jdbcTemplate/_DataSource_jdbcTemplate.iml" />
       <module fileurl="file://$PROJECT_DIR$/_JDBC/_JDBC.iml" filepath="$PROJECT_DIR$/_JDBC/_JDBC.iml" />
       <module fileurl="file://$PROJECT_DIR$/_StrengthBasic/_StrengthBasic.iml" filepath="$PROJECT_DIR$/_StrengthBasic/_StrengthBasic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_html/_html.iml" filepath="$PROJECT_DIR$/_html/_html.iml" />
     </modules>
   </component>
 </project>
