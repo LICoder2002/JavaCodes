@@ -5,6 +5,8 @@
       <module fileurl="file://$PROJECT_DIR$/JavaWeb.iml" filepath="$PROJECT_DIR$/JavaWeb.iml" />
       <module fileurl="file://$PROJECT_DIR$/_DataSource_jdbcTemplate/_DataSource_jdbcTemplate.iml" filepath="$PROJECT_DIR$/_DataSource_jdbcTemplate/_DataSource_jdbcTemplate.iml" />
       <module fileurl="file://$PROJECT_DIR$/_JDBC/_JDBC.iml" filepath="$PROJECT_DIR$/_JDBC/_JDBC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_JavaAdvanced/_JavaAdvanced.iml" filepath="$PROJECT_DIR$/_JavaAdvanced/_JavaAdvanced.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_JavaScriptBasic/_JavaScriptBasic.iml" filepath="$PROJECT_DIR$/_JavaScriptBasic/_JavaScriptBasic.iml" />
       <module fileurl="file://$PROJECT_DIR$/_StrengthBasic/_StrengthBasic.iml" filepath="$PROJECT_DIR$/_StrengthBasic/_StrengthBasic.iml" />
       <module fileurl="file://$PROJECT_DIR$/_html/_html.iml" filepath="$PROJECT_DIR$/_html/_html.iml" />
       <module fileurl="file://$PROJECT_DIR$/_html_css/_html_css.iml" filepath="$PROJECT_DIR$/_html_css/_html_css.iml" />
