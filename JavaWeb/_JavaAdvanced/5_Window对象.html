@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Window对象</title>
+  <!--
+    不需要创建，直接使用；引用可以省略
+  -->
+
+
+</head>
+<body>
+
+<input id="openBtn" type="button" value="打开窗口">
+<input id="closeBtn" type="button" value="关闭窗口">
+<script>
+
+    //弹框
+    //alert("123");
+    //window.alert("321");
+
+    /*
+        alert("hello window!");
+        var flag = confirm("确定？"); //确定返回true, 取消返回false
+        if(flag){
+            alert("再见");
+        }else {
+            alert("点错了");
+        }
+    */
+
+    /*   var s = prompt("请输入用户名");
+       alert(s);*/
+
+
+    //开关
+/*    var openBtn = document.getElementById("openBtn");
+    var newWindow;
+    openBtn.onclick = function () {
+        newWindow = open("https://www.baidu.com");
+    }
+
+    var closeBtn = document.getElementById("closeBtn");
+    closeBtn.onclick = function () {
+        //window.close();
+        newWindow.close();
+    }*/
+
+
+    //定时器
+    //一次性计时器
+    //setTimeout("fun()", 3000); //参数1. js代码  2. 毫秒值
+/*    var id = setTimeout(fun, 3000); //参数1. js代码  2. 毫秒值
+    clearTimeout(id);*/
+
+
+    //循环定时器
+/*    var id = setInterval(fun, 2000);
+    clearInterval(id);*/
+ /*   function fun(){
+        alert('boom~~')
+    }
+*/
+
+/*    var h1= history;
+    var h2 = window.history;
+
+    alert(h1);
+    alert(h2);*/
+
+    var openBtn = window.document.getElementById("openBtn");
+    alert(openBtn);
+    //document.getElementById("");
+
+</script>
+
+</body>
+</html>

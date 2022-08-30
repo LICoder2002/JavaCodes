@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>电灯开关</title>
+</head>
+<body>
+
+<img id="light" src="img/off.gif">
+
+<script>
+    //1. 获取图片对象
+
+    var light = document.getElementById("light");
+
+    var flag = false; //代表off
+    //2. 绑定单击事件
+
+    //3. 单击切换
+    light.onclick = function () {
+      if(flag){
+        light.src = "img/off.gif";
+        flag = false;
+      }
+      else {
+        light.src = "img/on.gif";
+        flag = true;
+      }
+
+    }
+
+</script>
+
+</body>
+</html>

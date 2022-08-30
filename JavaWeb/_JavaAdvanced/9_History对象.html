@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>History对象</title>
+
+  <!--
+      History
+
+      方法：
+      back
+      forward
+      go 正数 前进  负数 后退
+      length  返回当前窗口历史列表中的url数量
+  -->
+</head>
+<body>
+    <input type="button" id="btn" value="获取历史记录个数">
+    <a href="10_History对象2.html">09页面</a>
+    <input type="button" id="forward" value="前进">
+
+
+    <script>
+
+    var btn = document.getElementById("btn");
+    btn.onclick = function (){
+        var length = history.length;
+        alert(length);
+    }
+
+
+    var forward = document.getElementById("forward");
+    forward.onclick = function (){
+        history.forward();
+    }
+
+
+
+</script>
+
+</body>
+</html>

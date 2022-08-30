@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>基本对象</title>
+  <script>
+    /*
+        Function：函数对象
+     */
+
+    var fun1 = new Function("a", "b", "alert(a);");
+    //fun1(1, 2);
+
+    //定义方法，参数类型不写
+    function  fun2(a, b){
+      alert(a + b);
+    }
+    //fun2(1 ,2);
+
+    var fun3 = function (a, b){
+      alert(a + b);
+    }
+
+    fun1 = function (a, c){
+        alert(a - c);
+    }
+
+
+    /*
+        Array:数组
+     */
+
+    var arr1 = new Array(1, 2, 3);
+    var arr2 = new Array(5);
+    var arr3 = [1,2,3,4,5];
+
+    var arr = [1, "abc", true];
+    document.write(arr);
+
+/*
+    Date : 日期
+ */
+
+/*
+    Math 数学对象
+ */
+  </script>
+
+</head>
+<body>
+
+</body>
+</html>

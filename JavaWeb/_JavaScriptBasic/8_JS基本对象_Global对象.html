@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>基本对象</title>
+  <script>
+  /*
+        Global对象
+            1. 特点
+                全局对象
+            2. 方法
+                * encodeURI(): url编码
+                * decodeURI(): url解码
+
+                * encodeURIComponent: url编码，编码的字符更多
+                * decodeURIComponent: url解码
+
+                * parseInt(): 将字符串转为数字
+
+                * isNaN(): 判断一个值是否是NaN
+
+                * eval(): 将JS字符串作为脚本代码来执行
+
+   */
+
+  var str = "???传智播客";
+  var encode = encodeURI(str);
+  document.write(encode + "<br>")
+  var s = decodeURI(encode);
+  document.write(s+ "<br>");
+
+  var str2 = "???传智播客";
+  var s1 = encodeURIComponent(str2);
+  document.write(s1 + "<br>");
+  var s2 = decodeURIComponent(s1);
+  document.write(s2+ "<br>");
+
+  var str = "1234abc";
+  var number = parseInt(str);
+  //alert(number + 1);
+
+  var a = NaN;
+  document.write(a==NaN+ "<br>");
+  document.write(isNaN(a)+ "<br>");
+
+  var jscode = "alert(123)";
+  alert(jscode);
+
+  eval(jscode)
+
+
+
+  </script>
+
+</head>
+<body>
+
+</body>
+</html>
