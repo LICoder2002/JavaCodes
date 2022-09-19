@@ -14,6 +14,10 @@ public class Car {
     }
 
     public Car() {
+        this.brand = "宝马";
+        this.type = "x6";
+        this.vehicleId = "京CNY3284";
+        this.perRent = 800;
     }
 
     public String getBrand() {
