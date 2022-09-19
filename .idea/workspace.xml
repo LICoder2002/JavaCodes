@@ -4,21 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6a6196ac-dc51-4402-ad21-32d603094cca" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HomeWork.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/priv/lhf/test1/Test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/priv/lhf/test1/Test2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/priv/lhf/test1/Test3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/priv/lhf/test1/Test4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/priv/lhf/test1/Test5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/priv/lhf/test1/Test6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/priv/lhf/test1/Test7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/priv/lhf/test1/Test8.java" afterDir="false" />
+    <list default="true" id="6a6196ac-dc51-4402-ad21-32d603094cca" name="Changes" comment="2022_9_5">
+      <change afterPath="$PROJECT_DIR$/src/priv/lhf/test2/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/priv/lhf/test2/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,27 +36,27 @@
     <option name="showExcludedFiles" value="false" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.Test8">
-    <configuration name="Test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="priv.lhf.test1.Test1" />
+}</component>
+  <component name="RunManager" selected="Application.Test">
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="priv.lhf.test2.Test" />
       <module name="HomeWork" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="priv.lhf.test1.*" />
+          <option name="PATTERN" value="priv.lhf.test2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -129,11 +118,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test" />
         <item itemvalue="Application.Test8" />
         <item itemvalue="Application.Test7" />
         <item itemvalue="Application.Test3" />
         <item itemvalue="Application.Test2" />
-        <item itemvalue="Application.Test1" />
       </list>
     </recent_temporary>
   </component>
@@ -145,8 +134,18 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1662383356737</updated>
-      <workItem from="1662383357923" duration="4599000" />
+      <workItem from="1662383357923" duration="5025000" />
+      <workItem from="1663054492638" duration="2000" />
+      <workItem from="1663554753390" duration="551000" />
     </task>
+    <task id="LOCAL-00001" summary="2022_9_5">
+      <created>1662388734431</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1662388734431</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -162,5 +161,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="2022_9_5" />
+    <option name="LAST_COMMIT_MESSAGE" value="2022_9_5" />
   </component>
 </project>
