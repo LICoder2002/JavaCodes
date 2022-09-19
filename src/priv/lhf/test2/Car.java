@@ -44,6 +44,16 @@ public class Car {
         return perRent;
     }
 
+    @Override
+    public String toString() {
+        return "Car{" +
+                "brand='" + brand + '\'' +
+                ", type='" + type + '\'' +
+                ", vehicleId='" + vehicleId + '\'' +
+                ", perRent=" + perRent +
+                '}';
+    }
+
     public void setPerRent(int perRent) {
         this.perRent = perRent;
     }

@@ -15,5 +15,7 @@ public class Test {
         rent = car.carRent(day2);
         System.out.println(rent);
 
+        System.out.println(car);
+
     }
 }
