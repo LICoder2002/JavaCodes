@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6a6196ac-dc51-4402-ad21-32d603094cca" name="Changes" comment="2022_9_19" />
+    <list default="true" id="6a6196ac-dc51-4402-ad21-32d603094cca" name="Changes" comment="2022_9_19">
+      <change afterPath="$PROJECT_DIR$/src/priv/lhf/test2/Test2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,26 +49,13 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Test">
+  <component name="RunManager" selected="Application.priv.lhf.test2.Test2">
     <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="priv.lhf.test2.Test" />
       <module name="HomeWork" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="priv.lhf.test2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="priv.lhf.test1.Test2" />
-      <module name="HomeWork" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="priv.lhf.test1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,13 +102,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="priv.lhf.test2.Test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="priv.lhf.test2.Test2" />
+      <module name="HomeWork" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="priv.lhf.test2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.priv.lhf.test2.Test2" />
         <item itemvalue="Application.Test" />
         <item itemvalue="Application.Test8" />
         <item itemvalue="Application.Test7" />
         <item itemvalue="Application.Test3" />
-        <item itemvalue="Application.Test2" />
       </list>
     </recent_temporary>
   </component>
@@ -133,6 +136,8 @@
       <workItem from="1662383357923" duration="5025000" />
       <workItem from="1663054492638" duration="2000" />
       <workItem from="1663554753390" duration="1349000" />
+      <workItem from="1663557732037" duration="811000" />
+      <workItem from="1663750074862" duration="339000" />
     </task>
     <task id="LOCAL-00001" summary="2022_9_5">
       <created>1662388734431</created>
@@ -155,7 +160,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663556100049</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="2022_9_19">
+      <created>1663557878697</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1663557878697</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
